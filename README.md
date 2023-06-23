@@ -23,7 +23,7 @@ Gitee - 在项目`pom.xml`中增加仓库地址：
 <repositories>
    <repository>
       <id>GitHub-obullxl</id>
-      <url>https://raw.githubusercontent.com/obullxl/maven-repository/raw/master/repository</url>
+      <url>https://raw.githubusercontent.com/obullxl/maven-repository/master/repository</url>
    </repository>
 </repositories>
 ```
